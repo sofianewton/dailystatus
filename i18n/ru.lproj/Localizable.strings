@@ -1,0 +1,144 @@
+/* 
+  Localizable.strings
+  Daily Vibes
+
+  Created by Alex Kluew on 2017-12-10.
+  Copyright © 2017 Alex Kluew. All rights reserved.
+*/
+"Done" = "Готово";
+"Cancel" = "Отмена";
+"Archive" = "Архив";
+"Delete" = "Удалить";
+
+/*Default Lists*/
+"Inbox" = "Входящие";
+"Save" = "Сохранить";
+
+/*Tab labels*/
+"Home" = "Главная";
+"Add" = "Добавить";
+"Settings" = "Настройки";
+"Progress" = "Прогресс";
+
+/*Main table Actions
+ Main todo item actions*/
+"Mark this task as done?" = "Отметить эту задачу как выполненную?";
+"This action cannot be undone. Once you complete a task, you cannot undo it. Your remaining option would be to delete and start over." = "Это действие не может быть отменено. После выполнения задачи вы не сможете ее отменить. Вам придется удалить её и создать заново.";
+"Yes, Mark this as Done" = "Да, Отметить как Выполнено";
+"Are you sure?" = "Bы уверены?";
+"You're about to delete forever" = "Вы собираетесь удалить навсегда";
+"Yes, Delete Forever." = "Да, Удалить навсегда.";
+"Details" = "Детали";
+"Tags" = "Теги";
+"new tag" = "новый тег";
+"view tags" = "Просмотреть теги";
+"How do you feel?" = "Как вы себя чувствуете?";
+"Date" = "число";
+
+/*Tags Modification Screen*/
+"Create a new tag or use one below" = "Создайте новый тег или используйте один из перечисленных";
+
+/*Empty Screen*/
+"Your list is currently empty" = "Ваш список пуст";
+"You can add a new to-do to get started" = "Вы можете добавить новую задачу, чтобы приступить к работе";
+
+/*Settings*/
+"About" = "O нас";
+"Support" = "Поддержка";
+"Acknowledgement" = "Благодарности";
+"Language" = "Язык";
+"Made in Scotland" = "Сделано в Шотландии";
+"English" = "Aнглийский";
+
+/*Localizable.strings
+ Daily Vibes
+ 
+ Created by Alex Kluew on 2017-12-10.
+ Copyright © 2017 Alex Kluew. All rights reserved.
+ 
+ General Actions*/
+"To-do" = "Задачи";
+"Archived" = "Архив";
+"Year progress" = "Годовой прогресс";
+"completed" = "завершено";
+
+/*Share widget*/
+"Tag" = "Тег";
+"from widget" = "из виджета";
+"Today" = "Cегодня";
+"Yesterday" = "Вчера";
+
+/*Filter actions*/
+"All" = "Все";
+"Completed" = "Завершенные";
+"Upcoming" = "Предстоящие";
+"Sort by" = "Сортировать по";
+"This week" = "На этой неделе";
+"Unsorted" = "Не отсортированные";
+"Change Project" = "Изменить проект";
+
+/*Todo Item Modification Screen*/
+"Add a to-do" = "Добавить";
+"Project" = "Проект";
+"Projects" = "Проекты";
+"None" = "Нет";
+"Title" = "Название";
+"Set Due Date" = "Установить дату выполнения";
+"Set" = "Задать";
+"Notes" = "Заметки";
+
+/*DailyVibesList Modification Screen*/
+"Lists" = "Списки";
+"Create new (ex: Groceries, Upcoming project) or select one below" = "Создайте новый (например: Продовольственные товары, Предстоящий проект) или выберите один ниже";
+
+/*Progress Screen*/
+"Daily task completion history" = "История выполнения ежедневной задачи";
+
+/*Settings*/
+"Themes" = "Оформление";
+"Notifications" = "Уведомления";
+
+/*Not an easy one, I want to see where it's used in the app*/
+"Alert" = "Оповещение";
+"Done Notifications" = "Уведомления о завершенных проектах";
+"Delete Notifications" = "Уведомления об удалённых проектах";
+
+/*This is hard as well, "полоса" or "серия" come to my mind first when I try to translate it, so I decided to choose the latter*/
+"Current streak" = "Текущая серия";
+"Longest streak" = "Самая длинная серия";
+"Total completed tasks" = "Всего завершенных задач";
+"Total tasks" = "Всего заданий";
+"Days recorded" = "Зарегистрированные дни";
+
+/*Themes*/
+"Default" = "По умолчанию";
+"Night Blue" = "Ночной синий";
+"Night" = "Ночной";
+"Orange" = "Oранжевый";
+"Created" = "Cозданный";
+"Due" = "Срок";
+"No data yet, see what happens when you complete a task" = "Пока нет данных, посмотрите, что произойдет, когда вы выполните задачу";
+"Please Rate Daily Status" = "Пожалуйста, оцените Daily Status";
+"Copied to clipboard" = "Скопировано";
+"One new to-do item task per line" = "Одна новая задача задачи на строку";
+"You can also include #tags" = "Вы также можете добавить #tags";
+"Single" = "Один";
+"Multiple" = "Больше одного";
+"Add Multiple To-do Items" = "Добавление нескольких заданий";
+"Remind me" = "Напомни меня";
+"Reminder" = "Напоминание";
+"Please enable Notifications to use this feature" = "Включите Уведомления, чтобы использовать эту функцию.";
+"Go to Settings" = "Перейдите в Настройки";
+"Export" = "Экспортировать";
+"How would you like to export your data?" = "Как вы хотите экспортировать свои данные?";
+"Export to Text" = "Экспорт в текст";
+"Export to Email" = "Экспорт в Эл. адрес";
+"Tomorrow" = "Завтра";
+
+"Sunday" = "Воскресенье";
+"Monday" = "Понедельник";
+"Tuesday" = "Вторник";
+"Wednesday" = "Среда";
+"Thursday" = "Четверг";
+"Friday" = "Пятница";
+"Saturday" = "Суббота";

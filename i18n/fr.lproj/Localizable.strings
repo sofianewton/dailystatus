@@ -1,0 +1,133 @@
+/* 
+  Localizable.strings
+  Daily Vibes
+
+  Created by Alex Kluew on 2017-12-10.
+  Copyright © 2017 Alex Kluew. All rights reserved.
+*/
+//General Actions*/
+"Done" = "Terminé";
+"Cancel" = "Annuler";
+"Archive" = "Archiver";
+"Delete" = "Effacer";
+
+/*Default Lists*/
+"Inbox" = "Boîte de réception";
+"Save" = "Sauvegarder";
+
+/*Tab labels*/
+"Home" = "Accueil";
+"Add" = "Ajouter";
+"Settings" = "Paramètres";
+"Progress" = "Le progrès";
+
+/*Main table Actions
+ Main todo item actions*/
+"Mark this task as done?" = "Marquer cette tâche comme terminée?";
+"This action cannot be undone. Once you complete a task, you cannot undo it. Your remaining option would be to delete and start over." = "Cette action ne peut pas être annulée. Une fois que vous avez terminé une tâche, vous ne pouvez pas l'annuler. Votre option restante serait de supprimer et recommencer.";
+"Yes, Mark this as Done" = "Oui, marquer ceci comme fait";
+"Are you sure?" = "Êtes-vous sûr?";
+"You're about to delete forever" = "Vous êtes sur le point de supprimer pour toujours";
+"Yes, Delete Forever." = "Oui, Supprimer pour toujours.";
+"Details" = "Détails";
+"Tags" = "Mots clés";
+"new tag" = "nouveau tag";
+"view tags" = "voir les tags";
+"How do you feel?" = "Comment vous sentez-vous?";
+"Date" = "Rendez-vous amoureux";
+
+/*Tags Modification Screen*/
+"Create a new tag or use one below" = "Créer un nouveau tag ou en utiliser un ci-dessous";
+
+/*Empty Screen*/
+"Your list is currently empty" = "Votre liste est actuellement vide";
+"You can add a new to-do to get started" = "Vous pouvez ajouter une nouvelle tâche pour commencer";
+
+/*Settings*/
+"About" = "Sur";
+"Support" = "Soutien";
+"Acknowledgement" = "Reconnaissance";
+"Language" = "La langue";
+"Made in Scotland" = "Fait à Scotland";
+"English" = "Anglais";
+
+/*Localizable.strings
+ Daily Vibes
+ 
+ Created by Alex Kluew on 2017-12-10.
+ Copyright © 2017 Alex Kluew. All rights reserved.
+ 
+ General Actions*/
+"To-do" = "Faire";
+"Archived" = "Archivé";
+"Year progress" = "Progression de l'année";
+"completed" = "terminé";
+
+/*Share widget*/
+"Tag" = "Tag";
+"from widget" = "du widget";
+"Today" = "Aujourd'hui";
+"Yesterday" = "Hier";
+
+/*Filter actions*/
+"All" = "Tout";
+"Completed" = "Terminé";
+"Upcoming" = "Prochain";
+"Sort by" = "Trier par";
+"This week" = "Cette semaine";
+"Unsorted" = "Non trié";
+"Change Project" = "Changer de projet";
+
+/*Todo Item Modification Screen*/
+"Add a to-do" = "Ajouter un to-do";
+"Project" = "Le projet";
+"Projects" = "Projets";
+"None" = "Nul";
+"Title" = "Le Titre";
+"Set Due Date" = "Définir la date d'échéance";
+"Set" = "Ensemble";
+"Notes" = "Remarques";
+
+/*DailyVibesList Modification Screen*/
+"Lists" = "Listes";
+"Create new (ex: Groceries, Upcoming project) or select one below" = "Créer un nouveau (ex: épiceries, projet à venir) ou sélectionnez-en un ci-dessous";
+
+/*Progress Screen*/
+"Daily task completion history" = "Historique des tâches quotidiennes";
+
+/*Settings*/
+"Themes" = "Les apparences";
+"Notifications" = "Notifications";
+"Alert" = "Alerte";
+"Done Notifications" = "Notifications terminées";
+"Delete Notifications" = "Supprimer les notifications";
+"Current streak" = "Série actuelle";
+"Longest streak" = "La plus longue série";
+"Total completed tasks" = "Total des tâches terminées";
+"Total tasks" = "Total des tâches";
+"Days recorded" = "Jours enregistrés";
+
+/*Themes*/
+"Default" = "Défaut";
+"Night Blue" = "Nuit bleue";
+"Night" = "Nuit";
+"Orange" = "Orange";
+"Created" = "Créé";
+"Due" = "Dû";
+"No data yet, see what happens when you complete a task" = "Aucune donnée pour le moment, voir ce qui se passe lorsque vous terminez une tâche";
+"Please Rate Daily Status" = "S'il vous plaît noter Daily Status";
+"Copied to clipboard" = "Copié dans le presse-papier";
+"One new to-do item task per line" = "Une nouvelle tâche d'élément à faire par ligne";
+"You can also include #tags" = "Vous pouvez également inclure #tags";
+"Single" = "Unique";
+"Multiple" = "Multiple";
+"Add Multiple To-do Items" = "Ajouter plusieurs éléments à faire";
+"Remind me" = "Rappelle moi";
+"Reminder" = "Rappel";
+"Please enable Notifications to use this feature" = "Veuillez activer les notifications pour utiliser cette fonctionnalité";
+"Go to Settings" = "Aller aux paramètres";
+"Export" = "Exporter";
+"How would you like to export your data?" = "Comment souhaitez-vous exporter vos données?";
+"Export to Text" = "Exporter vers le texte";
+"Export to Email" = "Exporter vers Email";
+"Tomorrow" = "Demain";

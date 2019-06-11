@@ -1,0 +1,187 @@
+/*
+ Localizable.strings
+ Daily Vibes
+ 
+ Created by Alex Kluew on 2017-12-10.
+ Copyright © 2017 Alex Kluew. All rights reserved.
+ */
+
+// General Actions
+"To-do" = "To-do";
+"Done" = "Done";
+"Cancel" = "Cancel";
+"Archive" = "Archive";
+"Archived" = "Archived";
+"Delete" = "Delete";
+"Inbox" = "Inbox";
+"Save" = "Save";
+"Copied to clipboard" = "Copied to clipboard";
+
+"Year progress" = "Year progress";
+"completed" = "completed";
+
+// Tab labels
+"Home" = "Home";
+"Add" = "Add";
+"Settings" = "Settings";
+"Progress" = "Progress";
+
+// Share widget
+"Tag" = "Tag";
+"from widget" = "from widget";
+
+// Main table Actions
+// Main todo item actions
+"Mark this task as done?" = "Mark this task as done?";
+"This action cannot be undone. Once you complete a task, you cannot undo it. Your remaining option would be to delete and start over." = "This action cannot be undone. Once you complete a task, you cannot undo it. Your remaining option would be to delete and start over.";
+"Yes, Mark this as Done" = "Yes, Mark this as Done";
+"Are you sure?" = "Are you sure?";
+"You're about to delete forever" = "You're about to delete forever";
+"Yes, Delete Forever." = "Yes, Delete Forever.";
+"Today" = "Today";
+"Yesterday" = "Yesterday";
+"Created" = "Created";
+"Completed" = "Completed";
+"Tomorrow" = "Tomorrow";
+
+// Filter actions
+"All" = "All";
+"Completed" = "Completed";
+"Upcoming" = "Upcoming";
+"Sort by" = "Sort by";
+
+// Default Lists
+"Inbox" = "Inbox";
+"Today" = "Today";
+"This week" = "This week";
+"Archived" = "Archived";
+"Unsorted" = "Unsorted";
+"Change Project" = "Change Project";
+"Change" = "Change";
+
+// Todo Item Modification Screen
+"Add a to-do" = "New To-do";
+"Details" = "Details";
+"Project" = "Project";
+"Projects" = "Projects";
+"Tags" = "Tags";
+"new tag" = "new tag";
+"None" = "None";
+"view tags" = "view tags";
+"How do you feel?" = "How do you feel?";
+"Title" = "Title";
+"Date" = "Date";
+"Set Due Date" = "Set Due Date";
+"Set" = "Set";
+"Notes" = "Notes";
+"Due" = "Due";
+"One new to-do item task per line" = "One new to-do item task per line due tomorrow";
+"You can also include #tags" = "You can also include #tags";
+"Single" = "Single";
+"Multiple" = "Multiple";
+"Remind me" = "Remind me";
+"Reminder" = "Reminder";
+
+"Add Multiple To-do Items" = "Add Multiple To-do Items";
+"Please enable Notifications to use this feature" = "Please enable Notifications to use this feature";
+"Go to Settings" = "Go to Settings";
+
+// DailyVibesList Modification Screen
+"Lists" = "Lists";
+"Create new (ex: Groceries, Upcoming project) or select one below" = "Create new (ex: Groceries, Upcoming project) or select one below";
+
+// Tags Modification Screen
+"Create a new tag or use one below" = "Create a new tag or use one below";
+
+// Empty Screen
+"Your list is currently empty" = "Your list is currently empty";
+"You can add a new to-do to get started" = "You can add a new to-do to get started";
+
+"Add new project or list" = "Add new project or list";
+
+// Progress Screen
+"Daily task completion history" = "Daily task completion history";
+"Current streak" = "Current streak";
+"Longest streak" = "Longest streak";
+"Total completed tasks" = "Total completed tasks";
+"Total tasks" = "Total tasks";
+"Days recorded" = "Days recorded";
+"No data yet, see what happens when you complete a task" = "No data yet, see what happens when you complete a task";
+
+// Themes
+"Default" = "Default";
+"Night Blue" = "Night Blue";
+"Night" = "Night";
+"Orange" = "Orange";
+
+// Settings
+"Themes" = "Themes";
+"About" = "About";
+"Support" = "Support";
+"Acknowledgement" = "Acknowledgement";
+"Please Rate Daily Status" = "Please Rate Daily Status";
+"Language" = "Language";
+"Made in Scotland" = "🍁 Made in Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿";
+"English" = "English";
+"Notifications" = "Notifications";
+"Alert" = "Alert";
+"Done Notifications" = "Done Notifications";
+"Delete Notifications" = "Delete Notifications";
+"Export" = "Export";
+"Export data" = "Export data";
+"How would you like to export your data?" = "How would you like to export your data?";
+"Export to Text" = "Export to Text";
+"Export to Email" = "Export to Email";
+
+// Likert
+"Vibes" = "Status";
+"Current Vibes" = "Record your current vibes";
+"Self" = "Self";
+"Environment" = "Environment";
+"entries" = "entries";
+"entry" = "entry";
+"Entry" = "Entry";
+
+"Reset" = "Reset";
+"Edit" = "Edit";
+"Switch" = "Switch";
+"Switch Project" = "Switch Project";
+"Change" = "Change";
+"Change Date" = "Change Date";
+"Change Time" = "Change Time";
+
+"New" = "New";
+"Default" = "Default";
+"Custom" = "Custom";
+"Vibes" = "Status";
+
+"Time" = "Time";
+"Motivation" = "Motivation";
+"Mood" = "Mood";
+"Stress" = "Stress";
+"Work" = "Work";
+"Life" = "Life";
+"Health" = "Health";
+"Good" = "Good";
+"Bad" = "Bad";
+
+"This week" = "This week";
+"28 days" = "28 days";
+"Rate Daily Status" = "Rate Daily Status";
+"Rename" = "Rename";
+
+"View" = "View";
+"Icon" = "Icon";
+
+"Sunday" = "Sunday";
+"Monday" = "Monday";
+"Tuesday" = "Tuesday";
+"Wednesday" = "Wednesday";
+"Thursday" = "Thursday";
+"Friday" = "Friday";
+"Saturday" = "Saturday";
+
+"Start" = "Starts";
+"End" = "Ends";
+"Set End Date" = "Set End Date";
+"Set Start Date" = "Set Start Date";
